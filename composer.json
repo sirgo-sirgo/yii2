@@ -1,0 +1,9 @@
+{
+    "name": "plakhonin/yii2",
+ "description": "Project",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+
+}
